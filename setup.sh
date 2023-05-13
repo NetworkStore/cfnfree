@@ -7,7 +7,7 @@ if [ "$(systemd-detect-virt)" == "openvz" ]; then
 		echo "OpenVZ is not supported"
 		exit 1
 fi
-# My Telegram : https://t.me/Akbar218
+# My Telegram : https://t.me/AndreSakti_Store
 # ==========================================
 # Color
 RED='\033[0;31m'
@@ -20,27 +20,27 @@ CYAN='\033[0;36m'
 LIGHT='\033[0;37m'
 # ==========================================
 # Link Hosting Kalian Untuk Ssh Vpn
-akbarvpn="raw.githubusercontent.com/lizsvr/cfnfree/main/ssh"
+akbarvpn="raw.githubusercontent.com/NetworkStore/cfnfree/main/ssh"
 # Link Hosting Kalian Untuk Sstp
-akbarvpnn="raw.githubusercontent.com/lizsvr/cfnfree/main/sstp"
+akbarvpnn="raw.githubusercontent.com/NetworkStore/cfnfree/main/sstp"
 # Link Hosting Kalian Untuk Ssr
-akbarvpnnn="raw.githubusercontent.com/lizsvr/cfnfree/main/ssr"
+akbarvpnnn="raw.githubusercontent.com/NetworkStore/cfnfree/main/ssr"
 # Link Hosting Kalian Untuk Shadowsocks
-akbarvpnnnn="raw.githubusercontent.com/lizsvr/cfnfree/main/shadowsocks"
+akbarvpnnnn="raw.githubusercontent.com/NetworkStore/cfnfree/main/shadowsocks"
 # Link Hosting Kalian Untuk Wireguard
-akbarvpnnnnn="raw.githubusercontent.com/lizsvr/cfnfree/main/wireguard"
+akbarvpnnnnn="raw.githubusercontent.com/NetworkStore/cfnfree/main/wireguard"
 # Link Hosting Kalian Untuk Xray
-akbarvpnnnnnn="raw.githubusercontent.com/lizsvr/cfnfree/main/xray"
+akbarvpnnnnnn="raw.githubusercontent.com/NetworkStore/cfnfree/main/xray"
 # Link Hosting Kalian Untuk Ipsec
-akbarvpnnnnnnn="raw.githubusercontent.com/lizsvr/cfnfree/main/ipsec"
+akbarvpnnnnnnn="raw.githubusercontent.com/NetworkStore/cfnfree/main/ipsec"
 # Link Hosting Kalian Untuk Backup
-akbarvpnnnnnnnn="raw.githubusercontent.com/lizsvr/cfnfree/main/backup"
+akbarvpnnnnnnnn="raw.githubusercontent.com/NetworkStore/cfnfree/main/backup"
 # Link Hosting Kalian Untuk Websocket
-akbarvpnnnnnnnnn="raw.githubusercontent.com/lizsvr/cfnfree/main/websocket"
+akbarvpnnnnnnnnn="raw.githubusercontent.com/NetworkStore/cfnfree/main/websocket"
 # Link Hosting Kalian Untuk Ohp
-akbarvpnnnnnnnnnn="raw.githubusercontent.com/lizsvr/cfnfree/main/ohp"
+akbarvpnnnnnnnnnn="raw.githubusercontent.com/NetworkStore/cfnfree/main/ohp"
 # link Hosting update
-akbarvpnnnnnnnnnnn="raw.githubusercontent.com/lizsvr/cfnfree/main/update"
+akbarvpnnnnnnnnnnn="raw.githubusercontent.com/NetworkStore/cfnfree/main/update"
 
 MYIP=$(wget -qO- ipinfo.io/ip);
 echo "Checking VPS"
@@ -114,7 +114,7 @@ echo "1.2" > /home/ver
 echo " "
 echo "Installation has been completed!!"
 echo " "
-echo "=================================-Akbar Maulana Project-===========================" | tee -a log-install.txt
+echo "=================================-Andre Sakti Project-===========================" | tee -a log-install.txt
 echo "" | tee -a log-install.txt
 echo "----------------------------------------------------------------------------" | tee -a log-install.txt
 echo ""  | tee -a log-install.txt
@@ -148,7 +148,7 @@ echo "   - Full Orders For Various Services" | tee -a log-install.txt
 echo "   - White Label" | tee -a log-install.txt
 echo "   - Installation Log --> /root/log-install.txt"  | tee -a log-install.txt
 echo ""  | tee -a log-install.txt
-echo "---------------------- Script Mod By LIZ ----------------------" | tee -a log-install.txt
+echo "---------------------- Script Mod By Andre Sakti ----------------------" | tee -a log-install.txt
 echo ""
 echo " Reboot 15 Sec"
 sleep 15
